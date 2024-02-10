@@ -73,7 +73,7 @@ ol{
 }
 
 .margin{
-   margin: 100px 100px 100px 100px;
+   margin: 10px 10px 10px 10px;
 }
 
 .mais{
@@ -86,13 +86,13 @@ img{
     border: rgb(0, 225, 255) 5px solid;
     border-radius: 75px 75px 75px 75px;
     box-shadow: 6px 6px 7.2px rgb(50, 50, 50);
-    margin-left: 420.3px;
+    margin-left: 42px;
 }
 
 .catégorie_2{
     border: rgb(0, 225, 255) 5px solid;
     border-radius: 40px 40px 40px 40px;
-    margin: 50px 50px 50px 50px
+    margin: 5px 5px 5px 5px
 }
 
 .Zydeco{
