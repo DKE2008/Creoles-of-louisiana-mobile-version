@@ -1,12 +1,12 @@
 
 body {
     background: linear-gradient( to right, rgb(255, 255, 255), rgb(0, 0, 255));
-    font-size: 1.3em;
+    font-size: 0.8em;
 }
 
 h1 {
    text-align: center;
-   font-size: 5em;
+   font-size: 4em;
    font-family: 'Montserrat', sans-serif;
    text-shadow: 20px 20px 12px rgb(50, 50, 50);
    color: rgb(255, 255, 255);
@@ -21,7 +21,7 @@ h1 {
 h2 {
     text-align: center;
     color: rgb(0, 0, 255);
-    font-size: 4em;
+    font-size: 3.5em;
     text-shadow: 10px 10px 7.2px rgb(50, 50, 50);
 }
 
@@ -32,7 +32,7 @@ h2 {
 
 .beleck{
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 800;
     color:red;
 }
@@ -48,7 +48,7 @@ h3{
 h4{
     text-align: center;
     color: rgb(0, 225, 255);
-    font-size: 2em;
+    font-size: 2.5em;
     text-shadow: 6px 6px 7.2px rgb(50, 50, 50);
 
 }
@@ -59,7 +59,7 @@ p,pre{
 
 ol{
     font-weight: bolder;
-    font-size: 1.124em;
+    font-size: 1em;
     font-family: Arial, Helvetica, sans-serif ;
 }
 
@@ -68,7 +68,7 @@ ol{
 }
 
 .gené{
-    font-size: 6em;
+    font-size: 4em;
 }
 
 .margin{
@@ -114,7 +114,7 @@ h5{
 
 .fin{
     font-weight: 800;
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
     color: rgb(255, 255, 255);
     text-shadow: 20px 20px 12px rgb(50, 50, 50);
