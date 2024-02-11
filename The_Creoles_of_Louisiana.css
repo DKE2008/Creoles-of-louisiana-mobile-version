@@ -6,7 +6,7 @@ body {
 
 h1 {
    text-align: center;
-   font-size: 7em;
+   font-size: 6em;
    font-family: 'Montserrat', sans-serif;
    text-shadow: 20px 20px 12px rgb(50, 50, 50);
    color: rgb(255, 255, 255);
@@ -21,7 +21,7 @@ h1 {
 h2 {
     text-align: center;
     color: rgb(0, 0, 255);
-    font-size: 6em;
+    font-size: 5em;
     text-shadow: 10px 10px 7.2px rgb(50, 50, 50);
 }
 
@@ -40,7 +40,7 @@ h2 {
 h3{    
     text-align: center;
     color: rgb(75, 114, 255);
-    font-size: 5em;
+    font-size: 4em;
     text-shadow: 6px 6px 7.2px rgb(50, 50, 50);
 
 }
@@ -48,7 +48,7 @@ h3{
 h4{
     text-align: center;
     color: rgb(0, 225, 255);
-    font-size: 4em;
+    font-size: 3em;
     text-shadow: 6px 6px 7.2px rgb(50, 50, 50);
 
 }
@@ -96,7 +96,7 @@ img{
 
 .Zydeco{
     text-align: center;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 800;
     color:red;
 }
@@ -108,7 +108,7 @@ img{
 h5{
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 3em;
+    font-size: 2em;
     text-shadow: 6px 6px 7.2px rgb(50, 50, 50);
 }
 
